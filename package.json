@@ -48,7 +48,7 @@
     "test:lint": "gulp lint"
   },
   "dependencies": {
-    "@c4312/chromehash": "^0.3.0",
+    "@c4312/chromehash": "file:./chromehash",
     "@vscode/js-debug-browsers": "^1.0.6",
     "@vscode/win32-app-container-tokens": "^0.1.0",
     "acorn": "^8.7.0",
